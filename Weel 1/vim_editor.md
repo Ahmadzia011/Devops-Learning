@@ -6,5 +6,8 @@
 - `:wq` → Save & exit  
 
 ### **Practice Exercises**  
-✅ Created & edited text files using Vim  
-✅ Used navigation shortcuts (`h`, `j`, `k`, `l`)  
+
+```sh
+  vim<filename>
+
+
