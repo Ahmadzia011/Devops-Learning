@@ -5,9 +5,8 @@
 - `ESC` → Exit insert mode  
 - `:wq` → Save & exit  
 
-### **Practice Exercises**  
-
 ```sh
-  vim <filename>
+    vim <filename>
+```
 
-
+### **Practice Exercises**  
