@@ -1,5 +1,18 @@
-🖥️ Virtual Machine Setup Guide
-Introduction
+# 🖥️ Virtual Machine Setup Guide
+
+## Overview of Virtualization  
+
+### What is Virtualization?  
+Virtualization is the process of creating a **virtual version of a physical computer**, allowing multiple operating systems (OS) to run on a single physical machine. This is widely used in **DevOps, cloud computing, and software development** to create isolated environments for testing and deployment.  
+
+### Key Terminologies  
+
+- **Host OS**: The operating system installed on your physical machine (e.g., Windows, macOS, or Linux).  
+- **Guest OS**: The operating system running inside a Virtual Machine (e.g., Ubuntu, CentOS, Windows Server).  
+- **Hypervisor**: Software that creates and manages virtual machines (e.g., VirtualBox, VMware, KVM).  
+- **Virtual Machine (VM)**: A software-based computer running inside the hypervisor with its own OS and resources.  
+
+---
 
 
 In this guide, I will walk through two methods for setting up a Virtual Machine (VM) for DevOps practice:
