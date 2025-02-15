@@ -8,6 +8,6 @@
 ### **Practice Exercises**  
 
 ```sh
-  vim<filename>
+  vim <filename>
 
 
