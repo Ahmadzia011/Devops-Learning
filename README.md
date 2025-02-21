@@ -9,4 +9,17 @@ This repo documents my journey of learning DevOps, week by week.
 ✅ Practiced using the Vim editor  
 ✅ Set up AWS  
 
-📂 Check my learning materials inside the **Week 1** folder!  
+📂 Check my learning materials inside the **Week 1** folder! 
+
+
+## 📅 Week 2: Learned Linux Essentials  
+✅ Files & Files types
+✅ Filters & Search
+✅ Text Manipulation
+✅ Redirection & Piping
+✅ Archiving_and_Compression
+✅ User & Group Management 
+✅ Service & Process Management
+✅ Package Management
+
+📂 Check my learning materials & tasks I performed, inside the **Week 1** folder! 
