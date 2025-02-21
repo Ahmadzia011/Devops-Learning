@@ -12,7 +12,7 @@ This repository documents my journey of learning DevOps, week by week.
 ✅ Practiced using the Vim editor  
 ✅ Set up AWS  
 
-📂 **Check my learning materials inside the [Week 1](./Week 1) fol der!**  
+📂 **Check my learning materials inside the [Week 1]([./Week-1]([https://github.com/Ahmadzia011/Devops-Learning/Week-1)](https://github.com/Ahmadzia011/Devops-Learning/tree/main/Week%201)) fol der!**  
 
 ---
 
@@ -27,6 +27,6 @@ This repository documents my journey of learning DevOps, week by week.
 ✅ Service & Process Management  
 ✅ Package Management  
 
-📂 **Check my learning materials & tasks I performed inside the [Week 2](./"Week 2") folder!**  
+📂 **Check my learning materials & tasks I performed inside the [Week 2](./Week-2) folder!**  
 
 ---
