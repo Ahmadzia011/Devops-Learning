@@ -1,12 +1,10 @@
-## 📅 Week 2: Linux
+# 📅 Week 2: Linux  
 
+This folder documents my second week of learning DevOps, focusing on Linux fundamentals and practical applications.  
 
-This folder documents second week of my journey of learning DevOps.
+## 📂 Files Included  
 
-
-
-📂 Notes.odt : In this file, I have documented all the content that I have learnt thoroughtout Week 2.
-
-📂 Tasks.md :  This file contain tasks and mini projects that I did.
+- **📄 Notes.odt** – A detailed compilation of all the concepts I learned throughout Week 2. 
+- **📄 Tasks.md** – A structured list of tasks and mini-projects that I completed to apply my learning. Instead of cluttering a single file with random commands, this file presents a clean and organized showcase of my practical understanding.  
 
 ---
