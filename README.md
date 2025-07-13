@@ -34,10 +34,10 @@ This repository documents my journey of learning DevOps, week by week.
 ## 📅 Week 3: Learned Advanced Linux  
 
 ✅ Vagrant  
-✅ Provisioning 
-✅ Basic Server Management
+✅ Provisioning  
+✅ Basic Server Management  
 ✅ Redirection & Piping  
-✅ Automated Wordpress Setup with Apache 
+✅ Automated Wordpress Setup with Apache  
 ✅ Tomcat & Systemctl  
 
 
