@@ -30,3 +30,17 @@ This repository documents my journey of learning DevOps, week by week.
 📂 **Check my learning materials & tasks I performed inside the *Week 2* folder!**  
 
 ---
+
+## 📅 Week 3: Learned Advanced Linux  
+
+✅ Vagrant  
+✅ Provisioning 
+✅ Basic Server Management
+✅ Redirection & Piping  
+✅ Automated Wordpress Setup with Apache 
+✅ Tomcat & Systemctl  
+
+
+📂 **Check my learning materials inside the *Week 3* folder!**  
+
+---
