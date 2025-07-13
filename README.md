@@ -36,7 +36,6 @@ This repository documents my journey of learning DevOps, week by week.
 ✅ Vagrant  
 ✅ Provisioning  
 ✅ Basic Server Management  
-✅ Redirection & Piping  
 ✅ Automated Wordpress Setup with Apache  
 ✅ Tomcat & Systemctl  
 
